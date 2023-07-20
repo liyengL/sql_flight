@@ -38,7 +38,5 @@ What is the average booking amount?
 What is the highest booking amount? 
 
 
-## Conclusion and Recommendations 
-
 
 
