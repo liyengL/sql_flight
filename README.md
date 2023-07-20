@@ -34,6 +34,9 @@ Where are the top 5 regions the customers are from?
 
 What is the average booking amount?
 What is the highest booking amount? 
-What is the lowest booking amount? 
+
+
+## Conclusion and Recommendations 
+
 
 
