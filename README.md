@@ -7,7 +7,7 @@ The travel agency wants to gain valuable insights from the booking data to optim
 ## Steps taken 
 
 We have dataset of 1000 rows and 14 columns. The first step we did is to normalize this dataset so we can otain to eliminate redundant data, minimize data modification errors, and simplify the query process.
-This is important step if new data comes in in the future, our database do not get any anomaly.
+This is important step if new data comes in in the future, our database do not get any anomaly. Please refer to this document for more information: flight_normalization.md
 
 ## Potential questions 
 
