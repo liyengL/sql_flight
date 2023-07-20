@@ -11,6 +11,8 @@ This is important step if new data comes in in the future, our database do not g
 
 ## Potential questions 
 
+Please refer to this document to see the code: https://github.com/liyengL/sql_flight/blob/main/Flight_sql_queries.ipynb
+
 ### Popular Airlines and Seat Classes:
 
 Which airlines are the most popular among customers?
