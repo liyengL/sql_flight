@@ -1,7 +1,7 @@
 # sql_flight
 ## Objective: Optimizing Travel Agency Operations and Marketing Strategies
 
-We are working with a Travel Agency that offers flight bookings for various airlines and seat classes. 
+We are working with an online Travel Agency that offers flight bookings for various airlines and seat classes. 
 The travel agency wants to gain valuable insights from the booking data to optimize its operations and marketing strategies.
 
 ## Steps taken 
